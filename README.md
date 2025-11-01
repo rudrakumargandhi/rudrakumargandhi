@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rudra Kumar Gandhi  
 
-🎓 Computer Science Engineer | 🔐 Cybersecurity & AI Enthusiast | 💻 MERN Developer | AI Agents 
+🎓 Computer Science Engineer | 🔐 Cybersecurity & AI Enthusiast | 💻 MERN Developer | AI Agent & Automation Builder
 
 I'm passionate about building secure systems, exploring AI-driven security, and contributing to impactful research.  
 

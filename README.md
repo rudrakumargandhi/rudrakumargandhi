@@ -9,7 +9,7 @@ I'm passionate about building secure systems, exploring AI-driven security, and 
 - Secure Web & API Development  
 - Artificial Intelligence Research
 - Cyber Security Research
-- Real-time Communication Systems  
+- Real-time Communication Systems 
 
 ### 🌟 Featured Projects:
 - [Stocklens](https://github.com/rudrakumargandhi/Stocklens): Stock Analysis platform with AI integeration for detailed insights. 

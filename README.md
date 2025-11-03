@@ -12,8 +12,7 @@ I'm passionate about building secure systems, exploring AI-driven security, and 
 - Real-time Communication Systems  
 
 ### 🌟 Featured Projects:
-- [Stocklens](https://github.com/rudrakumargandhi/Stocklens): Stock Analysis platform with AI integeration for detailed insights.  
-- [Vaartalap](https://github.com/rudrakumargandhi/Vaartalap): Real-time peer-to-peer communication app using WebRTC.  
+- [Stocklens](https://github.com/rudrakumargandhi/Stocklens): Stock Analysis platform with AI integeration for detailed insights. 
 - [Quantum Image Processing](https://github.com/rudrakumargandhi/Path-Tracer-for-Time-Crystal-Generation): Research-based implementation exploring algorithms for designing optical inputs for quantum computation.
 
 ### 📫 Connect with me:
